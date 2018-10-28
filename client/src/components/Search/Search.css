@@ -1,0 +1,18 @@
+.search-box {
+    background-image: url("./../../image/background.jpg");
+    color: black;
+    text-align: center;
+}
+
+.card-header {
+    border-bottom: 1px solid white;
+}
+
+.btn {
+    padding: 20px;
+}
+
+input {
+    margin-bottom: 20px;
+    text-align: center;
+}
