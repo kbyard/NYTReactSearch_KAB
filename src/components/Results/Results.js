@@ -32,4 +32,4 @@ const Results = (props) => {
     )
 };
 
-export default Results
+export default Results;

@@ -1,5 +1,4 @@
-// Import React since we are using React.
-import React, { Component } from 'react';
+import React, { Component } from "react";
 // Import app css file.
 import './App.css';
 // Import home page.
